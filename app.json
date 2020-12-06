@@ -7,6 +7,15 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "Breaking Bad Characters",
+    "ios": {
+      "bundleIdentifier": "io.github.deathkillerank",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "io.github.deathkillerank",
+      "versionCode": 1
+    }
   }
 }
